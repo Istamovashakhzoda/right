@@ -1,0 +1,135 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+/*.fon {
+  padding: 20px;
+  font-size: 20px;
+  line-height: 24px;
+  height: 450px;
+
+  background-image: url(./photo_2022-07-30_07-43-35.jpg);
+  color: white;
+  background-repeat: no-repeat;
+}
+
+.bg-img {
+  width: 450px;
+  height: 450px;
+  padding: 50px;
+  border: 4px solid black;
+  border-radius: 50%;
+  margin: 30px;
+  background-image: url(./arrival-1.jpg);
+  background-repeat: no-repeat;
+}*/
+
+.box-1 {
+  width: 300px;
+  height: 300px;
+  border: 2px solid black;
+  background-image: url(./photo_2022-07-30_07-43-35.jpg);
+  background-repeat: no-repeat;
+  /*background-size: cover;*/
+  /*background-size: contain;*/
+  background-size: 150px 150px;
+  background-position: 30px 50px;
+  margin: 55px;
+}
+
+.box-2 {
+  width: 300px;
+  height: 300px;
+  border: 2px solid black;
+  background-image: url(./photo_2022-07-30_07-43-35.jpg);
+  background-repeat: no-repeat;
+  /*background-size: cover;*/
+  /*background-size: contain;*/
+  background-size: 150px 150px;
+  background-position: left;
+  margin: 55px;
+}
+
+.box-3 {
+  width: 300px;
+  height: 300px;
+  border: 2px solid black;
+  background-image: url(./photo_2022-07-30_07-43-35.jpg);
+  background-repeat: no-repeat;
+  /*background-size: cover;*/
+  /*background-size: contain;*/
+  background-size: 150px 150px;
+  background-position: right;
+  margin: 55px;
+}
+
+.box-4 {
+  width: 300px;
+  height: 300px;
+  border: 2px solid black;
+  background-image: url(./photo_2022-07-30_07-43-35.jpg);
+  background-repeat: no-repeat;
+  /*background-size: cover;*/
+  /*background-size: contain;*/
+  background-size: 150px 150px;
+  background-position: center center;
+  margin: 55px;
+}
+
+.box-5 {
+  width: 300px;
+  height: 300px;
+  border: 2px solid black;
+  background-image: url(./photo_2022-07-30_07-43-35.jpg);
+  background-repeat: no-repeat;
+  /*background-size: cover;*/
+  /*background-size: contain;*/
+  background-size: 150px 150px;
+  background-position: center bottom;
+  margin: 55px;
+}
+
+.box-6 {
+  width: 300px;
+  height: 300px;
+  border: 2px solid black;
+  background-image: url(./photo_2022-07-30_07-43-35.jpg);
+  background-repeat: no-repeat;
+  /*background-size: cover;*/
+  /*background-size: contain;*/
+  background-size: 150px 150px;
+  background-position: 150px 100px 100px;
+  margin: 55px;
+}
+
+.box-7 {
+  width: 300px;
+  height: 300px;
+  border: 2px solid black;
+  background-image: url(./photo_2022-07-30_07-43-35.jpg);
+  background-repeat: no-repeat;
+  /*background-size: cover;*/
+  /*background-size: contain;*/
+  background-size: 150px 150px;
+  background-position: top right;
+  margin: 55px;
+}
+
+.box-8 {
+  width: 300px;
+  height: 300px;
+  border: 2px solid black;
+  background-image: url(./photo_2022-07-30_07-43-35.jpg);
+  background-repeat: no-repeat;
+  /*background-size: cover;*/
+  /*background-size: contain;*/
+  background-size: 100px 100px;
+  background-position: 100px 150px;
+  margin: 115px;
+  opacity: 0.4;
+}
